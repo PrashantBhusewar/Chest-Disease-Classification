@@ -1,0 +1,8 @@
+.github/
+.jenkins/
+docs/
+flowcharts/
+artifacts/
+logs/
+notebooks/
+venv/
